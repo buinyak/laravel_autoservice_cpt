@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="db4389c5-09d9-427d-8e03-2494017b3150" name="503" url="http://service.auto.xsph.ru">
+        <fileTransfer rootFolder="/home/a0516503/domains/service.auto/public_html" accessType="SFTP" host="141.8.192.26" port="22" sshConfigId="25e21539-7cef-44c0-842f-b99c527a0651" sshConfig="a0516503@141.8.192.26:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c110547a-2adf-4fbb-acd7-53735d17e0a8" name="learner14">
+        <fileTransfer accessType="SFTP" host="l14.creativityprojectcenter.ru" port="22" sshConfigId="3f590274-5e3e-4058-ae13-d6eee5377a00" sshConfig="learner14@l14.creativityprojectcenter.ru:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

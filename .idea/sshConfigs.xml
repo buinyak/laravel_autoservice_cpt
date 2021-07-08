@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="l14.creativityprojectcenter.ru" id="3f590274-5e3e-4058-ae13-d6eee5377a00" port="22" nameFormat="DESCRIPTIVE" username="learner14" />
+      <sshConfig authType="PASSWORD" host="141.8.192.26" id="25e21539-7cef-44c0-842f-b99c527a0651" port="22" nameFormat="DESCRIPTIVE" username="a0516503" />
+    </configs>
+  </component>
+</project>
